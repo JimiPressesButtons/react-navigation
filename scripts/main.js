@@ -9,6 +9,7 @@ var HomeComponent = require('./components/HomeComponent');
 var DashboardComponent = require('./components/DashboardComponent');
 var LoginComponent = require('./components/LoginComponent');
 var RegisterComponent = require('./components/RegisterComponent');
+Parse.initialize("cAUrE0OPQI7acZeyQojAGb6PME06BktRRRjZbecq","i8dkIXT5O9KbYr1mEF6vKKLkNVAl6AncwUddhlty");
 
 var app = document.getElementById('app');
 
